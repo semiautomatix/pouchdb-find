@@ -43,7 +43,7 @@
     "is-array": "^1.0.1",
     "pouchdb-collate": "^1.2.0",
     "pouchdb-extend": "^0.1.2",
-    "pouchdb-promise": "5.4.0",
+    "pouchdb-promise": "6.1.2",
     "pouchdb-upsert": "~2.0.1",
     "spark-md5": "2.0.2"
   },
